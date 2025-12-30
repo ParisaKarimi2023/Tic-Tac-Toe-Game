@@ -2,9 +2,9 @@
 
 ## 1. Introduction
 
-The Tic-Tac-Toe (TikTik Toi) project is a simple yet educational game application that simulates the classic two-player strategy game. 
-The game is played on a 3×3 grid where two players take turns marking spaces with different symbols.
-The project demonstrates fundamental programming concepts such as logic implementation, user interaction, and game state management.
+### The Tic-Tac-Toe (TikTik Toi) project is a simple yet educational game application that simulates the classic two-player strategy game. 
+### The game is played on a 3×3 grid where two players take turns marking spaces with different symbols.
+### The project demonstrates fundamental programming concepts such as logic implementation, user interaction, and game state management.
 -------------------------------
 ## 2. Objectives
 
@@ -25,14 +25,14 @@ The project demonstrates fundamental programming concepts such as logic implemen
 <li>Draw Detection: Declares a draw if no player wins</li>
 <li>Game Reset Option: Allows players to restart the game</li>
 <li>Simple Interface: Easy to understand and use</li>
----------------------
-##  4. Game Rules
-The game is played on a 3×3 grid.
+------------------------------------------------
+## 4. Game Rules
+### The game is played on a 3×3 grid.
 
-Player 1 uses X, and Player 2 uses O.
+### Player 1 uses X, and Player 2 uses O.
 
-Players take turns placing their marks.
+### Players take turns placing their marks.
 
-The first player to align three marks horizontally, vertically, or diagonally wins.
+### The first player to align three marks horizontally, vertically, or diagonally wins.
 
-If all cells are filled without a winner, the game ends in a draw.
+### If all cells are filled without a winner, the game ends in a draw.
