@@ -26,7 +26,7 @@ The project demonstrates fundamental programming concepts such as logic implemen
 <li>Game Reset Option: Allows players to restart the game</li>
 <li>Simple Interface: Easy to understand and use</li>
 ---------------------
-## 4. Game Rules
+##  4. Game Rules
 The game is played on a 3×3 grid.
 
 Player 1 uses X, and Player 2 uses O.
