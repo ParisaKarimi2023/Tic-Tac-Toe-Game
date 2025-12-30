@@ -19,14 +19,15 @@
 #### To provide an interactive and user-friendly gaming experience
 -------------------------------
 ## 3. Features of the System
-<ul>The Tic-Tac-Toe project includes the following features:</ul>
+#### The Tic-Tac-Toe project includes the following features:
+<ul>
 <li>Two-Player Mode: Supports two players playing alternately</li>
 <li>Win Detection: Automatically checks for winning combinations</li>
 <li>Draw Detection: Declares a draw if no player wins</li>
 <li>Game Reset Option: Allows players to restart the game</li>
 <li>Simple Interface: Easy to understand and use</li>
-
-
+</ul>
+--------------------------------------------------------
 ## 4. Game Rules
 #### The game is played on a 3×3 grid.
 
