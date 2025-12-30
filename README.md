@@ -41,7 +41,8 @@
 #### If all cells are filled without a winner, the game ends in a draw.
 <ul>The following technologies were used in this project:
 <li>Programming Language: Python</li>
-<ul>Libraries/Frameworks:
+<ul>
+<li>Libraries/Frameworks:</li>  
 <li>Tkinter (for GUI version) or</li>
 <li>Console-based input/output</li>
 </ul>
