@@ -39,7 +39,8 @@
 ## 5. Technologies Used
 
 #### If all cells are filled without a winner, the game ends in a draw.
-<ul>The following technologies were used in this project:
+#### The following technologies were used in this project:
+<ul>
 <li>Programming Language: Python</li>
 <li>Libraries/Frameworks:</li> 
   <ul>
