@@ -39,3 +39,14 @@
 ## 5. Technologies Used
 
 #### If all cells are filled without a winner, the game ends in a draw.
+<ul>The following technologies were used in this project:
+<li>Programming Language: Python</li>
+<ul>Libraries/Frameworks:
+<li>Tkinter (for GUI version) or</li>
+<li>Console-based input/output</li>
+</ul>
+<li>Development Tools: VS Code / PyCharm</li>
+<li>Version Control: Git & GitHub</li>
+</ul>
+
+
