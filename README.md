@@ -51,4 +51,10 @@
 <li>Version Control: Git & GitHub</li>
 </ul>
 
+---------------------------------------------
+
+## 6. Implementation
+
+#### The Tic-Tac-Toe game is implemented using Python. The logic checks all possible winning combinations after each move. 
+#### The interface updates dynamically based on player actions. The program ensures valid input and prevents overwriting of occupied cells.
 
