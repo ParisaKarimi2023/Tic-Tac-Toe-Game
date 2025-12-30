@@ -25,7 +25,7 @@
 <li>Draw Detection: Declares a draw if no player wins</li>
 <li>Game Reset Option: Allows players to restart the game</li>
 <li>Simple Interface: Easy to understand and use</li>
-------------------------------------------------
+
 
 ## 4. Game Rules
 ### The game is played on a 3×3 grid.
