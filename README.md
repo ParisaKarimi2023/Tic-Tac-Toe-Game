@@ -35,5 +35,7 @@
 #### Players take turns placing their marks.
 
 #### The first player to align three marks horizontally, vertically, or diagonally wins.
+------------------------------------------
+## 5. Technologies Used
 
 #### If all cells are filled without a winner, the game ends in a draw.
