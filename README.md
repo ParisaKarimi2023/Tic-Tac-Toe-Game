@@ -8,7 +8,7 @@
 -------------------------------
 ## 2. Objectives
 
-#### The main objectives of this project are:
+#### The main objectives of this project are :
 
 #### To design and implement a functional Tic-Tac-Toe game
 
